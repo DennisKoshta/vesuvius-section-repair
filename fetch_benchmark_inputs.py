@@ -44,7 +44,7 @@ def fetch(manifest, destination, workers):
     with ThreadPoolExecutor(max_workers=workers) as executor:
         total = sum(executor.map(copy_chunk, chunks.items()))
     (destination / ".zarray").write_text(json.dumps(record["zarray"], indent=2) + "\n")
-    print(f"Verified {len(chunks)} native M7 chunks ({total:,} bytes) in {destination}")
+    print(f"Verified {len(chunks)} native Zarr chunks ({total:,} bytes) in {destination}")
 
 
 if __name__ == "__main__":
