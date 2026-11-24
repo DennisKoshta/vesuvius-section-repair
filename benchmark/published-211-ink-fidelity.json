@@ -1,0 +1,44 @@
+[
+  {
+    "anchor_gap": 8,
+    "matched_pixels": 263294,
+    "direction": "desc signed normal, offset 0",
+    "metrics": {
+      "cubic": {
+        "new_reader_on_original_surface": {
+          "spearman": 0.9057576843885061,
+          "pearson": 0.9350498832411069,
+          "mean_abs_score_difference": 0.04196833074092865
+        },
+        "released_winner_studio": {
+          "spearman": 0.7274865959923608,
+          "pearson": 0.696978590883772,
+          "mean_abs_score_difference": 0.19722747802734375
+        },
+        "released_catalog_reader": {
+          "spearman": 0.890250082858294,
+          "pearson": 0.9246785866331175,
+          "mean_abs_score_difference": 0.04466467723250389
+        }
+      },
+      "tracked": {
+        "new_reader_on_original_surface": {
+          "spearman": 0.9175470764729737,
+          "pearson": 0.956452964662671,
+          "mean_abs_score_difference": 0.036031972616910934
+        },
+        "released_winner_studio": {
+          "spearman": 0.6900844595004296,
+          "pearson": 0.6797263687632624,
+          "mean_abs_score_difference": 0.2013804018497467
+        },
+        "released_catalog_reader": {
+          "spearman": 0.9111730468183749,
+          "pearson": 0.9440192547232509,
+          "mean_abs_score_difference": 0.041715480387210846
+        }
+      }
+    },
+    "interpretation": "Agreement measures recovery of the known released surface and model signal. The winner's published letters serve as a control."
+  }
+]

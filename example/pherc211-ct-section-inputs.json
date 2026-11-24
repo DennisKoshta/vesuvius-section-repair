@@ -1,0 +1,34 @@
+{
+  "native_array_url": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHerc0211/volumes/20250821151803-9.362um-1.2m-113keV-masked.zarr/0/",
+  "zarray": {
+    "shape": [
+      19416,
+      7948,
+      7948
+    ],
+    "chunks": [
+      128,
+      128,
+      128
+    ],
+    "dtype": "|u1",
+    "fill_value": 0,
+    "order": "C",
+    "filters": null,
+    "dimension_separator": "/",
+    "compressor": null,
+    "zarr_format": 2
+  },
+  "chunks": {
+    "60/27/26": "b225125ba3b7ff5872e18d2ba5d7dca8faca8a15fde93e4387cbe8bce6de3fac",
+    "60/26/26": "03fe468f41a83e6632779bd1f70a731dcdc1922c6d32893e3d8c8f2637961f1a",
+    "60/27/27": "4498cb939cd89c81dfa67af499ee0f379f45a5f2b5108bf7de8e6145a2811571",
+    "60/26/27": "4cdc0c14c1653710b269c9f75cb0e01369a9e460632e92a39cf897dcb9eb9981"
+  },
+  "native_center_zyx": [
+    7776,
+    3432,
+    3441
+  ],
+  "half_window_voxels": 80
+}

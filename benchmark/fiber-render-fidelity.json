@@ -1,0 +1,29 @@
+[
+  {
+    "reference": "PHerc. 1203 / mesh A",
+    "registered_pixels": 18039,
+    "planes": 15,
+    "median_native_CT_Pearson_cubic": -0.0024076264597119273,
+    "median_native_CT_Pearson_repaired": 0.21459058435595876,
+    "middle_plane_highpass_Pearson_cubic": -0.042662610846099944,
+    "middle_plane_highpass_Pearson_repaired": 0.06751336276095336
+  },
+  {
+    "reference": "PHerc. 211 / V6 interior",
+    "registered_pixels": 87780,
+    "planes": 15,
+    "median_native_CT_Pearson_cubic": 0.08637832512772493,
+    "median_native_CT_Pearson_repaired": 0.5803960684448902,
+    "middle_plane_highpass_Pearson_cubic": 0.06202997614672457,
+    "middle_plane_highpass_Pearson_repaired": 0.489691964746735
+  },
+  {
+    "reference": "PHerc. 800 / local field",
+    "registered_pixels": 80680,
+    "planes": 15,
+    "median_native_CT_Pearson_cubic": 0.3904355122766105,
+    "median_native_CT_Pearson_repaired": 0.8378750511816844,
+    "middle_plane_highpass_Pearson_cubic": 0.27808323063847695,
+    "middle_plane_highpass_Pearson_repaired": 0.7763925104270193
+  }
+]

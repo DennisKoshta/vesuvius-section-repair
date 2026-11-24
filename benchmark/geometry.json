@@ -1,0 +1,308 @@
+[
+  {
+    "reference": "PHerc. 1203 / mesh A",
+    "axis": "rows",
+    "anchor_gap": 16,
+    "hidden_valid": 4824,
+    "comparable_all": 4320,
+    "accepted_comparable": 1631,
+    "anchor_preservation": true,
+    "cubic_within4_on_accepted": 0.5045984058859595,
+    "native_within4_on_accepted": 0.6909871244635193,
+    "cubic_within4_all": 0.4476851851851852,
+    "native_within4_all": 0.6099537037037037,
+    "median_error_voxels_cubic_and_native": [
+      3.954470634460449,
+      2.5214030742645264
+    ],
+    "newly_proposed_where_reference_absent": 0
+  },
+  {
+    "reference": "PHerc. 1203 / mesh A",
+    "axis": "rows",
+    "anchor_gap": 8,
+    "hidden_valid": 4536,
+    "comparable_all": 4032,
+    "accepted_comparable": 2152,
+    "anchor_preservation": true,
+    "cubic_within4_on_accepted": 0.6965613382899628,
+    "native_within4_on_accepted": 0.8740706319702602,
+    "cubic_within4_all": 0.671875,
+    "native_within4_all": 0.7814980158730159,
+    "median_error_voxels_cubic_and_native": [
+      2.440431594848633,
+      1.4108465313911438
+    ],
+    "newly_proposed_where_reference_absent": 0
+  },
+  {
+    "reference": "PHerc. 1203 / mesh B",
+    "axis": "rows",
+    "anchor_gap": 16,
+    "hidden_valid": 4824,
+    "comparable_all": 4320,
+    "accepted_comparable": 1725,
+    "anchor_preservation": true,
+    "cubic_within4_on_accepted": 0.23652173913043478,
+    "native_within4_on_accepted": 0.8069565217391305,
+    "cubic_within4_all": 0.2,
+    "native_within4_all": 0.7185185185185186,
+    "median_error_voxels_cubic_and_native": [
+      8.992076873779297,
+      1.909379005432129
+    ],
+    "newly_proposed_where_reference_absent": 0
+  },
+  {
+    "reference": "PHerc. 1203 / mesh B",
+    "axis": "rows",
+    "anchor_gap": 8,
+    "hidden_valid": 4536,
+    "comparable_all": 4032,
+    "accepted_comparable": 2816,
+    "anchor_preservation": true,
+    "cubic_within4_on_accepted": 0.42720170454545453,
+    "native_within4_on_accepted": 0.9328835227272727,
+    "cubic_within4_all": 0.41964285714285715,
+    "native_within4_all": 0.8901289682539683,
+    "median_error_voxels_cubic_and_native": [
+      4.952881813049316,
+      1.338839054107666
+    ],
+    "newly_proposed_where_reference_absent": 0
+  },
+  {
+    "reference": "PHerc. 1203 / complete mesh A",
+    "axis": "rows",
+    "anchor_gap": 16,
+    "hidden_valid": 39671,
+    "comparable_all": 35505,
+    "accepted_comparable": 12333,
+    "anchor_preservation": true,
+    "cubic_within4_on_accepted": 0.4407686694234979,
+    "native_within4_on_accepted": 0.7625881780588665,
+    "cubic_within4_all": 0.3581467398957893,
+    "native_within4_all": 0.5814110688635403,
+    "median_error_voxels_cubic_and_native": [
+      4.731651306152344,
+      1.9687395095825195
+    ],
+    "newly_proposed_where_reference_absent": 0
+  },
+  {
+    "reference": "PHerc. 211 / V6 edge",
+    "axis": "rows",
+    "anchor_gap": 16,
+    "hidden_valid": 4018,
+    "comparable_all": 3230,
+    "accepted_comparable": 2878,
+    "anchor_preservation": true,
+    "cubic_within4_on_accepted": 0.43293954134815843,
+    "native_within4_on_accepted": 0.8307852675469076,
+    "cubic_within4_all": 0.4306501547987616,
+    "native_within4_all": 0.8157894736842105,
+    "median_error_voxels_cubic_and_native": [
+      4.837109327316284,
+      1.5057087540626526
+    ],
+    "newly_proposed_where_reference_absent": 7
+  },
+  {
+    "reference": "PHerc. 211 / V6 edge",
+    "axis": "rows",
+    "anchor_gap": 8,
+    "hidden_valid": 3732,
+    "comparable_all": 3489,
+    "accepted_comparable": 3154,
+    "anchor_preservation": true,
+    "cubic_within4_on_accepted": 0.6880152187698161,
+    "native_within4_on_accepted": 0.9524413443246671,
+    "cubic_within4_all": 0.6795643450845514,
+    "native_within4_all": 0.9366580682143881,
+    "median_error_voxels_cubic_and_native": [
+      2.540513277053833,
+      1.0507976412773132
+    ],
+    "newly_proposed_where_reference_absent": 3
+  },
+  {
+    "reference": "PHerc. 211 / V6 interior",
+    "axis": "rows",
+    "anchor_gap": 16,
+    "hidden_valid": 4288,
+    "comparable_all": 3840,
+    "accepted_comparable": 3718,
+    "anchor_preservation": true,
+    "cubic_within4_on_accepted": 0.46503496503496505,
+    "native_within4_on_accepted": 0.9532006455083378,
+    "cubic_within4_all": 0.46145833333333336,
+    "native_within4_all": 0.9419270833333333,
+    "median_error_voxels_cubic_and_native": [
+      4.399146556854248,
+      1.0905588865280151
+    ],
+    "newly_proposed_where_reference_absent": 0
+  },
+  {
+    "reference": "PHerc. 211 / V6 interior",
+    "axis": "rows",
+    "anchor_gap": 8,
+    "hidden_valid": 4032,
+    "comparable_all": 3584,
+    "accepted_comparable": 3501,
+    "anchor_preservation": true,
+    "cubic_within4_on_accepted": 0.6086832333618966,
+    "native_within4_on_accepted": 0.9642959154527277,
+    "cubic_within4_all": 0.60546875,
+    "native_within4_all": 0.96484375,
+    "median_error_voxels_cubic_and_native": [
+      3.0494377613067627,
+      0.9087226390838623
+    ],
+    "newly_proposed_where_reference_absent": 0
+  },
+  {
+    "reference": "PHerc. 211 / complete V6",
+    "axis": "rows",
+    "anchor_gap": 16,
+    "hidden_valid": 62708,
+    "comparable_all": 57357,
+    "accepted_comparable": 47495,
+    "anchor_preservation": true,
+    "cubic_within4_on_accepted": 0.4233287714496263,
+    "native_within4_on_accepted": 0.9102431834929993,
+    "cubic_within4_all": 0.40127621737538577,
+    "native_within4_all": 0.8629286747912199,
+    "median_error_voxels_cubic_and_native": [
+      5.009196758270264,
+      1.208473563194275
+    ],
+    "newly_proposed_where_reference_absent": 244
+  },
+  {
+    "reference": "PHerc. 211 / complete V9",
+    "axis": "rows",
+    "anchor_gap": 16,
+    "hidden_valid": 21431,
+    "comparable_all": 17501,
+    "accepted_comparable": 15224,
+    "anchor_preservation": true,
+    "cubic_within4_on_accepted": 0.4146741986337362,
+    "native_within4_on_accepted": 0.933591697320021,
+    "cubic_within4_all": 0.39803439803439805,
+    "native_within4_all": 0.8848637220730244,
+    "median_error_voxels_cubic_and_native": [
+      5.125001430511475,
+      1.1292988657951355
+    ],
+    "newly_proposed_where_reference_absent": 2
+  },
+  {
+    "reference": "PHerc. 211 / complete V9",
+    "axis": "rows",
+    "anchor_gap": 8,
+    "hidden_valid": 20034,
+    "comparable_all": 17935,
+    "accepted_comparable": 16667,
+    "anchor_preservation": true,
+    "cubic_within4_on_accepted": 0.6436071278574429,
+    "native_within4_on_accepted": 0.9442611147777045,
+    "cubic_within4_all": 0.6347365486478952,
+    "native_within4_all": 0.9243378868134932,
+    "median_error_voxels_cubic_and_native": [
+      2.747718572616577,
+      0.9187222719192505
+    ],
+    "newly_proposed_where_reference_absent": 4
+  },
+  {
+    "reference": "PHerc. 800 / local field",
+    "axis": "columns",
+    "anchor_gap": 16,
+    "hidden_valid": 5071,
+    "comparable_all": 3870,
+    "accepted_comparable": 3284,
+    "anchor_preservation": true,
+    "cubic_within4_on_accepted": 0.5721680876979294,
+    "native_within4_on_accepted": 0.9631546894031668,
+    "cubic_within4_all": 0.5633074935400517,
+    "native_within4_all": 0.9444444444444444,
+    "median_error_voxels_cubic_and_native": [
+      3.356234550476074,
+      1.0148676633834839
+    ],
+    "newly_proposed_where_reference_absent": 0
+  },
+  {
+    "reference": "PHerc. 800 / local field",
+    "axis": "columns",
+    "anchor_gap": 8,
+    "hidden_valid": 4733,
+    "comparable_all": 4172,
+    "accepted_comparable": 3981,
+    "anchor_preservation": true,
+    "cubic_within4_on_accepted": 0.8804320522481789,
+    "native_within4_on_accepted": 0.987189148455162,
+    "cubic_within4_all": 0.8779961649089166,
+    "native_within4_all": 0.986816874400767,
+    "median_error_voxels_cubic_and_native": [
+      1.609903335571289,
+      0.9364259243011475
+    ],
+    "newly_proposed_where_reference_absent": 0
+  },
+  {
+    "reference": "PHerc. 800 / local field",
+    "axis": "rows",
+    "anchor_gap": 16,
+    "hidden_valid": 5039,
+    "comparable_all": 4230,
+    "accepted_comparable": 3540,
+    "anchor_preservation": true,
+    "cubic_within4_on_accepted": 0.5135593220338983,
+    "native_within4_on_accepted": 0.9570621468926553,
+    "cubic_within4_all": 0.49763593380614657,
+    "native_within4_all": 0.9427895981087471,
+    "median_error_voxels_cubic_and_native": [
+      3.8264682292938232,
+      1.1512084603309631
+    ],
+    "newly_proposed_where_reference_absent": 0
+  },
+  {
+    "reference": "PHerc. 800 / local field",
+    "axis": "rows",
+    "anchor_gap": 8,
+    "hidden_valid": 4734,
+    "comparable_all": 4109,
+    "accepted_comparable": 3912,
+    "anchor_preservation": true,
+    "cubic_within4_on_accepted": 0.7632924335378323,
+    "native_within4_on_accepted": 0.97060327198364,
+    "cubic_within4_all": 0.7568751521051351,
+    "native_within4_all": 0.9642248722316865,
+    "median_error_voxels_cubic_and_native": [
+      2.0387994050979614,
+      0.95035719871521
+    ],
+    "newly_proposed_where_reference_absent": 0
+  },
+  {
+    "reference": "PHerc. 800 / complete mesh",
+    "axis": "rows",
+    "anchor_gap": 16,
+    "hidden_valid": 7645,
+    "comparable_all": 5715,
+    "accepted_comparable": 4905,
+    "anchor_preservation": true,
+    "cubic_within4_on_accepted": 0.48399592252803264,
+    "native_within4_on_accepted": 0.9380224260958205,
+    "cubic_within4_all": 0.4680664916885389,
+    "native_within4_all": 0.9177602799650044,
+    "median_error_voxels_cubic_and_native": [
+      4.174440383911133,
+      1.121569275856018
+    ],
+    "newly_proposed_where_reference_absent": 0
+  }
+]

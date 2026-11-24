@@ -1,0 +1,18 @@
+{
+  "native_source": "PHerc0211/representations/predictions/surfaces/20250821151803-surface-20260413222639-surface-m7-L0-th0.2.zarr",
+  "origin_zyx": [
+    7444,
+    3315,
+    3198
+  ],
+  "upper_bound_zyx": [
+    7956,
+    3575,
+    3661
+  ],
+  "original_mesh": "public PHerc. 211 V6 normalized mesh",
+  "reference_crop_chart_row_col_in_parent": [
+    121,
+    231
+  ]
+}

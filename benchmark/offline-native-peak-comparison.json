@@ -1,0 +1,17 @@
+{
+  "cubic": {
+    "count": 192,
+    "within_four_voxels": 0.34375,
+    "median_distance_voxels": 5.449443340301514
+  },
+  "nearest_peak": {
+    "count": 192,
+    "within_four_voxels": 0.5989583333333334,
+    "median_distance_voxels": 2.597270965576172
+  },
+  "two_ended": {
+    "count": 192,
+    "within_four_voxels": 0.84375,
+    "median_distance_voxels": 1.7445878982543945
+  }
+}

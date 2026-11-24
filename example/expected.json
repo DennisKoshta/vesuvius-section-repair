@@ -1,0 +1,40 @@
+{
+  "sparse_input_vertices": 42,
+  "recovered_vertices": 192,
+  "native_source_zyx": [
+    [
+      7444,
+      3315,
+      3198
+    ],
+    [
+      7956,
+      3575,
+      3661
+    ]
+  ],
+  "anchor_preservation": "identical float32 coordinates",
+  "on_hidden_vertices": {
+    "cubic": {
+      "n": 192,
+      "within4": 0.34375,
+      "within8": 0.6354166666666666,
+      "median_p90_p99": [
+        5.449443340301514,
+        12.655040073394776,
+        16.96788953781128
+      ]
+    },
+    "tracked": {
+      "n": 192,
+      "within4": 0.84375,
+      "within8": 0.9739583333333334,
+      "median_p90_p99": [
+        1.7445878386497498,
+        5.106722211837769,
+        9.62204339027405
+      ]
+    }
+  },
+  "example_scope": "A cropped official native M7 Zarr array and three measured rows of an already released PHerc. 211 mesh. The withheld reference is only opened after reconstruction."
+}
